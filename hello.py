@@ -1,3 +1,10 @@
 # Firstname Lastname
 # 11/15/2024
 # A simple Python program to print a message
+
+# firstname Lastname
+#11/17/2024
+
+#added new message
+
+print ("Welcome to GitHub!")
